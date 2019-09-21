@@ -1,0 +1,6 @@
+C:\Users\hothaifa\source\repos\Flights\Flights\obj\Debug\Flights.csprojAssemblyReference.cache
+C:\Users\hothaifa\source\repos\Flights\Flights\obj\Debug\Flights.csproj.CoreCompileInputs.cache
+C:\Users\hothaifa\source\repos\Flights\Flights\bin\Debug\Flights.dll
+C:\Users\hothaifa\source\repos\Flights\Flights\bin\Debug\Flights.pdb
+C:\Users\hothaifa\source\repos\Flights\Flights\obj\Debug\Flights.dll
+C:\Users\hothaifa\source\repos\Flights\Flights\obj\Debug\Flights.pdb

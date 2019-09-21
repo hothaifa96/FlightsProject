@@ -1,0 +1,16 @@
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\FlightsTestUnit.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\FlightsTestUnit.pdb
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Flights.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Flights.pdb
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\obj\Debug\FlightsTestUnit.csprojAssemblyReference.cache
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\obj\Debug\FlightsTestUnit.csproj.CoreCompileInputs.cache
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\obj\Debug\FlightsTestUnit.csproj.CopyComplete
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\obj\Debug\FlightsTestUnit.dll
+C:\Users\hothaifa\source\repos\Flights\FlightsTestUnit\obj\Debug\FlightsTestUnit.pdb
